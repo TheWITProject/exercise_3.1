@@ -13,7 +13,6 @@ Design a schema for a to do list application.
 - Priority
 - Due Date
 - Completed
-
 </details>
 
 
@@ -55,3 +54,5 @@ User
 - How might we represent teams?
 
 </details>
+#Link to Figma: https://www.figma.com/file/Y6wClUnZrPYp8dmze0yPg7/3.1-To-Do?node-id=0%3A1
+Note: Me and Ferduse did not quite understand the instructions for this exercise, so we just executed it to the best of our ability. 
