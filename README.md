@@ -55,3 +55,6 @@ User
 - How might we represent teams?
 
 </details>
+
+##To-Do List Scheme on Figma 
+https://www.figma.com/file/xUcFv6T3CapTyDvqvRBudQ/WIT-Exercise-3.1-To-Do-List?node-id=0%3A1 
