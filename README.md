@@ -56,4 +56,6 @@ User
 
 </details>
 ## Figma Table
+<details>
 Link: https://www.figma.com/file/7XtUvLo7mnxV4yNYoPyPOC/Exercise-3.1?node-id=0%3A1
+<details>
