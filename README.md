@@ -3,6 +3,8 @@ You will be designing a schema for a to do list application. Please create your 
 
 ## Instructions
 Design a schema for a to do list application.
+https://www.figma.com/file/Y6wClUnZrPYp8dmze0yPg7/3.1-To-Do?node-id=0%3A1
+
 
 <details>
 <summary>Every to do list application needs tasks. Let's start with a Task table. What fields should Task have?</summary>
