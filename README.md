@@ -55,3 +55,7 @@ User
 - How might we represent teams?
 
 </details>
+
+Figma Table:
+
+https://www.figma.com/file/FNT61iyyDjnsj3nupt84Nb/Untitled?node-id=0%3A1
